@@ -1,0 +1,7 @@
+C:\Users\GP60\Desktop\Woodman\TestAi\bin\Debug\TestAi.dll
+C:\Users\GP60\Desktop\Woodman\TestAi\bin\Debug\TestAi.pdb
+C:\Users\GP60\Desktop\Woodman\TestAi\bin\Debug\ConsoleApplication1.exe
+C:\Users\GP60\Desktop\Woodman\TestAi\bin\Debug\ConsoleApplication1.pdb
+C:\Users\GP60\Desktop\Woodman\TestAi\obj\Debug\TestAi.csprojResolveAssemblyReference.cache
+C:\Users\GP60\Desktop\Woodman\TestAi\obj\Debug\TestAi.dll
+C:\Users\GP60\Desktop\Woodman\TestAi\obj\Debug\TestAi.pdb

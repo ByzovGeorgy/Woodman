@@ -1,0 +1,29 @@
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Woodman\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Woodman\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Woodman\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Woodman\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Woodman\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Woodman\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\GP60\Desktop\Woodman\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\GP60\Desktop\Woodman\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\GP60\Desktop\Woodman\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\GP60\Desktop\Woodman\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\GP60\Desktop\Woodman\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\GP60\Desktop\Woodman\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\GP60\Desktop\Новая папка (6)\Woodman\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\GP60\Desktop\Новая папка (6)\Woodman\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\GP60\Desktop\Новая папка (6)\Woodman\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\GP60\Desktop\Новая папка (6)\Woodman\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\GP60\Desktop\Новая папка (6)\Woodman\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\GP60\Desktop\Новая папка (6)\Woodman\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\GP60\Desktop\Новая папка (6)\Woodman\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Woodman\Woodman\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Woodman\Woodman\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Woodman\Woodman\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Woodman\Woodman\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Woodman\Woodman\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Woodman\Woodman\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Woodman\Woodman\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\GP60\Desktop\oop\ООП\Woodman\Woodman\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\GP60\Desktop\oop\ООП\Woodman\Woodman\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\GP60\Desktop\oop\ООП\Woodman\Woodman\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

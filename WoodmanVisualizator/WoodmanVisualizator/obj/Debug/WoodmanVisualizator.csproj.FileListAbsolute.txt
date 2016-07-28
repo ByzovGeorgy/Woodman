@@ -1,0 +1,24 @@
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\WoodmanServerClient\WoodmanVisualizator\WoodmanVisualizator\bin\Debug\WoodmanVisualizator.exe.config
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\WoodmanServerClient\WoodmanVisualizator\WoodmanVisualizator\obj\Debug\WoodmanVisualizator.csprojResolveAssemblyReference.cache
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\WoodmanServerClient\WoodmanVisualizator\WoodmanVisualizator\bin\Debug\WoodmanVisualizator.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\WoodmanServerClient\WoodmanVisualizator\WoodmanVisualizator\bin\Debug\WoodmanVisualizator.pdb
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\WoodmanServerClient\WoodmanVisualizator\WoodmanVisualizator\obj\Debug\WoodmanVisualizator.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\WoodmanServerClient\WoodmanVisualizator\WoodmanVisualizator\obj\Debug\WoodmanVisualizator.pdb
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\WoodmanServerClient\WoodmanVisualizator\WoodmanVisualizator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GP60\Desktop\Новая папка (5)\WoodmanServerClient\WoodmanVisualizator\WoodmanVisualizator\bin\Debug\WoodmanVisualizator.exe.config
+C:\Users\GP60\Desktop\Новая папка (5)\WoodmanServerClient\WoodmanVisualizator\WoodmanVisualizator\obj\Debug\WoodmanVisualizator.exe
+C:\Users\GP60\Desktop\Новая папка (5)\WoodmanServerClient\WoodmanVisualizator\WoodmanVisualizator\obj\Debug\WoodmanVisualizator.pdb
+C:\Users\GP60\Desktop\Новая папка (5)\WoodmanServerClient\WoodmanVisualizator\WoodmanVisualizator\bin\Debug\WoodmanVisualizator.exe
+C:\Users\GP60\Desktop\Новая папка (5)\WoodmanServerClient\WoodmanVisualizator\WoodmanVisualizator\bin\Debug\WoodmanVisualizator.pdb
+C:\Users\GP60\Desktop\Новая папка (5)\WoodmanServerClient\WoodmanVisualizator\WoodmanVisualizator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GP60\Desktop\Новая папка (5)\WoodmanServerClient\WoodmanVisualizator\WoodmanVisualizator\obj\Debug\WoodmanVisualizator.csprojResolveAssemblyReference.cache
+C:\Users\GP60\Desktop\Новая папка (6)\WoodmanVisualizator\WoodmanVisualizator\bin\Debug\WoodmanVisualizator.exe.config
+C:\Users\GP60\Desktop\Новая папка (6)\WoodmanVisualizator\WoodmanVisualizator\obj\Debug\WoodmanVisualizator.exe
+C:\Users\GP60\Desktop\Новая папка (6)\WoodmanVisualizator\WoodmanVisualizator\obj\Debug\WoodmanVisualizator.pdb
+C:\Users\GP60\Desktop\Новая папка (6)\WoodmanVisualizator\WoodmanVisualizator\bin\Debug\WoodmanVisualizator.exe
+C:\Users\GP60\Desktop\Новая папка (6)\WoodmanVisualizator\WoodmanVisualizator\bin\Debug\WoodmanVisualizator.pdb
+C:\Users\GP60\Desktop\Новая папка (6)\WoodmanVisualizator\WoodmanVisualizator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GP60\Desktop\Новая папка (6)\WoodmanVisualizator\WoodmanVisualizator\obj\Debug\WoodmanVisualizator.csprojResolveAssemblyReference.cache
+C:\Users\GP60\Desktop\oop\ООП\Woodman\WoodmanVisualizator\WoodmanVisualizator\bin\Debug\WoodmanVisualizator.exe.config
+C:\Users\GP60\Desktop\oop\ООП\Woodman\WoodmanVisualizator\WoodmanVisualizator\obj\Debug\WoodmanVisualizator.exe
+C:\Users\GP60\Desktop\oop\ООП\Woodman\WoodmanVisualizator\WoodmanVisualizator\obj\Debug\WoodmanVisualizator.pdb

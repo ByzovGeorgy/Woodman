@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<Forest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <map>
+    <ArrayOfTexture>
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+    </ArrayOfTexture>
+    <ArrayOfTexture>
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Pathway" />
+      <Texture xsi:type="Pathway" />
+      <Texture xsi:type="Inhabitant">
+        <Location>
+          <X>1</X>
+          <Y>3</Y>
+        </Location>
+        <Name>Thronduil</Name>
+        <LastTexture xsi:type="Pathway" />
+        <Lifes>4</Lifes>
+      </Texture>
+      <Texture xsi:type="Trap" />
+      <Texture xsi:type="Trap" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Trap" />
+      <Texture xsi:type="Wood" />
+    </ArrayOfTexture>
+    <ArrayOfTexture>
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Trap" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Pathway" />
+      <Texture xsi:type="Wood" />
+    </ArrayOfTexture>
+    <ArrayOfTexture>
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Pathway" />
+      <Texture xsi:type="Pathway" />
+      <Texture xsi:type="Pathway" />
+      <Texture xsi:type="Pathway" />
+      <Texture xsi:type="Pathway" />
+      <Texture xsi:type="Pathway" />
+      <Texture xsi:type="Pathway" />
+      <Texture xsi:type="Wood" />
+    </ArrayOfTexture>
+    <ArrayOfTexture>
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Pathway" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Pathway" />
+      <Texture xsi:type="Wood" />
+    </ArrayOfTexture>
+    <ArrayOfTexture>
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Pathway" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Pathway" />
+      <Texture xsi:type="Wood" />
+    </ArrayOfTexture>
+    <ArrayOfTexture>
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Pathway" />
+      <Texture xsi:type="Pathway" />
+      <Texture xsi:type="Pathway" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Pathway" />
+      <Texture xsi:type="Pathway" />
+      <Texture xsi:type="Life" />
+      <Texture xsi:type="Wood" />
+    </ArrayOfTexture>
+    <ArrayOfTexture>
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+      <Texture xsi:type="Wood" />
+    </ArrayOfTexture>
+  </map>
+  <Target>
+    <X>1</X>
+    <Y>1</Y>
+  </Target>
+  <Inhabitants>
+    <Inhabitant>
+      <Location>
+        <X>1</X>
+        <Y>3</Y>
+      </Location>
+      <Name>Thronduil</Name>
+      <LastTexture xsi:type="Pathway" />
+      <Lifes>4</Lifes>
+    </Inhabitant>
+  </Inhabitants>
+  <objectList>
+    <Texture xsi:type="Pathway" />
+    <Texture xsi:type="Wood" />
+    <Texture xsi:type="Trap" />
+    <Texture xsi:type="Life" />
+    <Texture xsi:type="Inhabitant">
+      <Location>
+        <X>1</X>
+        <Y>3</Y>
+      </Location>
+      <Name>Thronduil</Name>
+      <LastTexture xsi:type="Pathway" />
+      <Lifes>4</Lifes>
+    </Texture>
+  </objectList>
+  <Path>1.txt</Path>
+</Forest>

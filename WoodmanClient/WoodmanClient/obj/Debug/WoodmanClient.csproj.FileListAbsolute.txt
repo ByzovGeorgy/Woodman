@@ -1,0 +1,11 @@
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\WoodmanServerClient\WoodmanClient\WoodmanClient\bin\Debug\WoodmanClient.exe.config
+C:\Users\GP60\Desktop\Новая папка (6)\WoodmanClient\WoodmanClient\bin\Debug\WoodmanClient.exe.config
+C:\Users\GP60\Desktop\Новая папка (6)\WoodmanClient\WoodmanClient\bin\Debug\WoodmanClient.exe
+C:\Users\GP60\Desktop\Новая папка (6)\WoodmanClient\WoodmanClient\bin\Debug\WoodmanClient.pdb
+C:\Users\GP60\Desktop\Новая папка (6)\WoodmanClient\WoodmanClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GP60\Desktop\Новая папка (6)\WoodmanClient\WoodmanClient\obj\Debug\WoodmanClient.exe
+C:\Users\GP60\Desktop\Новая папка (6)\WoodmanClient\WoodmanClient\obj\Debug\WoodmanClient.pdb
+C:\Users\GP60\Desktop\Новая папка (6)\WoodmanClient\WoodmanClient\obj\Debug\WoodmanClient.csprojResolveAssemblyReference.cache
+C:\Users\GP60\Desktop\oop\ООП\Woodman\WoodmanClient\WoodmanClient\bin\Debug\WoodmanClient.exe.config
+C:\Users\GP60\Desktop\oop\ООП\Woodman\WoodmanClient\WoodmanClient\obj\Debug\WoodmanClient.exe
+C:\Users\GP60\Desktop\oop\ООП\Woodman\WoodmanClient\WoodmanClient\obj\Debug\WoodmanClient.pdb

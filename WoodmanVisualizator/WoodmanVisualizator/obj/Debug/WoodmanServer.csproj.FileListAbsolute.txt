@@ -1,0 +1,6 @@
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\WoodmanServerClient\WoodmanVisualizator\WoodmanVisualizator\bin\Debug\WoodmanVisualizator.exe.config
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\WoodmanServerClient\WoodmanVisualizator\WoodmanVisualizator\obj\Debug\WoodmanVisualizator.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\WoodmanServerClient\WoodmanVisualizator\WoodmanVisualizator\obj\Debug\WoodmanVisualizator.pdb
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\WoodmanServerClient\WoodmanVisualizator\WoodmanVisualizator\bin\Debug\WoodmanVisualizator.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\WoodmanServerClient\WoodmanVisualizator\WoodmanVisualizator\bin\Debug\WoodmanVisualizator.pdb
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\WoodmanServerClient\WoodmanVisualizator\WoodmanVisualizator\bin\Debug\Newtonsoft.Json.dll
